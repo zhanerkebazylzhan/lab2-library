@@ -1,7 +1,6 @@
 # Жоба: Кітапхана
-TITLE = "Кітапхана (нұсқа А)"
+TITLE = "Кітапхана (A+B)"
 VERSION = "1.0"
-
 def main():
     print("Қош келдіңіз:", TITLE, VERSION)
 
